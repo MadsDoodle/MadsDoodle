@@ -68,7 +68,6 @@
 
 <p align="left">
   <a href="mailto:madhavbaidyaiitbhu@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/madhavbaidya"><img src="https://www.linkedin.com/in/madhav-sukla-baidya-20a151285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"/></a>
   <a href="https://github.com/MadsDoodle"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
