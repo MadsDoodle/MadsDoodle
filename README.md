@@ -30,24 +30,7 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 
----
 
-### 📌 Pinned Projects
-
-<a href="https://github.com/MadsDoodle/Agent_2n_Agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadsDoodle&repo=Agent_2n_Agent&theme=tokyonight" />
-</a>
-<a href="https://github.com/MadsDoodle/ResumePro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadsDoodle&repo=ResumePro&theme=tokyonight" />
-</a>
-<a href="https://github.com/MadsDoodle/Monte-Carlo-simulation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadsDoodle&repo=Monte-Carlo-Simulation&theme=tokyonight" />
-</a>
-<a href="https://github.com/MadsDoodle/Multimodal_PDF_RAG-using-CLIP-LLM-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadsDoodle&repo=Multimodal_PDF_RAG-using-CLIP-LLM-&theme=tokyonight" />
-</a>
-
----
 
 ### 🧠 Fun Facts
 
