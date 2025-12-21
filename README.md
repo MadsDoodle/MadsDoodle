@@ -30,7 +30,35 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 
+---
 
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadsDoodle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MadsDoodle&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadsDoodle&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+![snake animation](https://raw.githubusercontent.com/MadsDoodle/MadsDoodle/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadsDoodle&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
 
 ### 🧠 Fun Facts
 
@@ -41,9 +69,9 @@
 
 ---
 
-### 🔥 Quote I Like
+### 🔥 Quote 
 
-> *"The best way to predict the future is to invent it."* — Alan Kay
+> *" Things cant always keep being the same...Wake Up and Make Things Happen"* — me
 
 ---
 
