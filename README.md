@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;4th+Year+Undergrad+at+IIT+BHU;Building+LLM+Projects+%F0%9F%9A%80;Exploring+Agentic+AI+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/MadsDoodle?style=for-the-badge&color=8b5cf6&label=Total%20Stars"/>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
