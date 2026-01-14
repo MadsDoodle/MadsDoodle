@@ -13,7 +13,6 @@
 </p>
 
 ---
-
 ### 👨‍💻 About Me
 
 - 🎓 4th Year Undergraduate @ **IIT BHU**
