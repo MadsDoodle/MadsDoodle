@@ -20,6 +20,7 @@
 - 🤖 Exploring **Agentic AI**, Neural Networks, Multimodal RAG systems
 - 🔧 Tools: **LangChain**, **FastAPI**, **CLIP**, **OpenAI APIs**, **Qdrant**
 - 🌐 Always curious to build intelligent systems that feel natural to interact with
+- Subtle blink towards AI Research
 
 ---
 
