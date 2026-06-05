@@ -1,7 +1,7 @@
 <h1 align="center">Madhav S. Baidya</h1>
 
 <p align="center">
-  <b>AI Researcher | LLM Systems | Multimodal Reasoning | Knowledge Graphs</b>
+  <b>AI Researcher | LLM Multi Agentic Systems | Multimodal Reasoning | Knowledge Graphs</b>
 </p>
 
 <p align="center">
